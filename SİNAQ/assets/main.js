@@ -1,0 +1,1 @@
+fetch('https://646b36547d3c1cae4ce36641.mockapi.io/site/go/:endpoint')
